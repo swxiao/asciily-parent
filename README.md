@@ -1,2 +1,2 @@
-# yami-parent
+# asciily-parent
 maven parent configuration
