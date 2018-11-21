@@ -94,7 +94,7 @@
 		<commons-pool2.version>2.4.2</commons-pool2.version>
 		<!-- rpc tools version configuration -->
 		<motan.version>0.2.2</motan.version>
-		<dubbo.version>2.8.4a</dubbo.version>
+		<dubbo.version>2.6.5</dubbo.version>
 		<!-- code auto generator version configuration -->
 		<rapid-generator.version>4.0.6</rapid-generator.version>
 		<!-- hadoop version configuration -->
